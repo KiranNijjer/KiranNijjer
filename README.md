@@ -3,7 +3,7 @@ Currently conducting research at the intersection of **AI and Medicine**, with a
 -  Surgery
 -  Gastroenterology 
 
-Passionate about using technology to improve diagnostics, patient outcomes, and advance healthcare equity—especially for underserved communities.
+Passionate about using technology to improve diagnostics, patient outcomes, and advance healthcare for underserved communities.
 
 Languages: Python, Java, JavaScript, C++
 
