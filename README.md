@@ -1,4 +1,4 @@
-Currently doing research at the intersection of **AI and Medicine**, with active projects in:  
+Currently conducting research at the intersection of **AI and Medicine**, with active projects in:  
 -  **Dermatology**  
 -  **Surgery**  
 -  **Gastroenterology**  
