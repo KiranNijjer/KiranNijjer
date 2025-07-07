@@ -1,4 +1,4 @@
-<!-- Blinking "Hey, I'm Kiran" -->
+<!-- Blinking intro -->
 <svg width="100%" height="60">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" fill="black">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
